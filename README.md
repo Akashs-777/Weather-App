@@ -37,4 +37,4 @@ The app uses the **Open-Meteo API** for weather and location data.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+https://github.com/Akashs-777/Weather-App.git
